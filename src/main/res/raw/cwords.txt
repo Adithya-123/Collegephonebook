@@ -1,0 +1,506 @@
+CLEVER/LEARNED~Acumen: Keen insight; shrewdness,Remarkable acumen in business matters.
+CLEVER/LEARNED~Astute: Clever; cunning; ingenious; shrewd An astute merchandising program. An astute manipulation of facts. 
+CLEVER/LEARNED~Brilliant: Having or showing great intelligence, talent, quality, etc. A brilliant technician
+CLEVER/LEARNED~Perspicacious: Having keen mental perception and understanding; discerning To exhibit a perspicacious judgment.
+CLEVER/LEARNED~Sagacious: Having or showing acute mental discernment and keen practical sense; shrewd A sagacious lawyer.
+CLEVER/LEARNED~Shrewd: Astute or sharp in practical matters A shrewd politician.
+CLEVER/LEARNED~Sapient: Having or showing great wisdom or sound judgment.       	
+CLEVER/LEARNED~Acute: Sharp or severe in effect; intense, acute sorrow; an acute pain.
+CLEVER/LEARNED~Ingenious: Characterized by cleverness or originality of invention or construction An ingenious machine.  
+CLEVER/LEARNED~Erudite: Characterized by great knowledge; learned or scholarly An erudite professor; an erudite commentary.
+
+FOOL/STUPID~Asinine:Foolish, unintelligent, or silly; stupid-It is surprising that supposedly intelligent people can make such asinine statements.  
+FOOL/STUPID~Inane: Lacking sense, significance, or ideas; silly	inane questions.
+FOOL/STUPID~Daft: Senseless, stupid, or foolish. Insane; crazy. 
+FOOL/STUPID~Lunatic: A person whose actions and manner are marked by extreme eccentricity or recklessness. Gaily or lightheartedly mad, frivolous, eccentric, etc.She has a lunatic charm that is quite engaging.
+FOOL/STUPID~Imbecile: Showing mental feebleness or incapacity. Stupid; silly; absurd.
+FOOL/STUPID~Fatuous: Foolish or inane, esp. in an unconscious, complacent manner; silly, unreal; illusory. 
+FOOL/STUPID~Numskull: A dull-witted or stupid person; dolt
+
+---------------------------
+
+
+EASY TO UNDERSTAND~Articulate: Expressed, formulated, or presented with clarity and effectiveness-An articulate thought.
+EASY TO UNDERSTAND~Enunciate: To utter or pronounce (words, sentences, etc.), esp. in an articulate or a particular manner;ex-He enunciates his words distinctly.
+EASY TO UNDERSTAND~Perspicuous: Clearly expressed or presented; easy to understand,ex-A perspicuous lecturer.
+EASY TO UNDERSTAND~Obvious: Easily seen, recognized, or understood; open to view or knowledge; evident,ex-An obvious advantage.
+EASY TO UNDERSTAND~Comprehensible: Capable of being comprehended or understood; intelligible.
+EASY TO UNDERSTAND~Explicit: Fully and clearly expressed or demonstrated; leaving nothing merely implied;unequivocal.ex-He was quite explicit as to what he expected us to do for him.
+EASY TO UNDERSTAND~Lucid: Easily understood; completely intelligible or comprehensible,ex- A lucid explanation.
+EASY TO UNDERSTAND~Pellucid: Allowing the maximum passage of light, as glass; translucent.Clear or limpid. Clear in meaning, expression, or style,ex- A pellucid way of writing.
+EASY TO UNDERSTAND~Eloquent: Having or exercising the power of fluent, forceful, and appropriate speech,ex-An eloquent orator. 
+EASY TO UNDERSTAND~Elucidate: To make lucid or clear; throw light upon; explain,ex-An explanation that elucidated his recent strange behavior.
+
+DIFFICULT/MYSTERIOUS~Recondite: Dealing with very profound, difficult, or abstruse subject matter,ex-A recondite treatise.
+DIFFICULT/MYSTERIOUS~Obscure: Far from public notice, worldly affairs, or important activities; remote; retired,ex-An obscure little town.
+DIFFICULT/MYSTERIOUS~Vague: Not clearly or explicitly stated or expressed vague promises.
+DIFFICULT/MYSTERIOUS~Abstruse: Hard to understand; recondite; esoteric,ex-Abstruse theories
+DIFFICULT/MYSTERIOUS~Arcane: Known or understood by very few; mysterious; secret; obscure;ex-She knew a lot about Sanskrit grammar and other arcane matters.
+DIFFICULT/MYSTERIOUS~Esoteric: Understood by or meant for only the select few who have special knowledge or interest; recondite Poetry full of esoteric allusions.  
+DIFFICULT/MYSTERIOUS~Occult :(i) Of or pertaining to magic, astrology, or any system claiming use or knowledge of secret or supernatural powers or agencies. (ii) Beyond the range of ordinary knowledge or understanding; mysterious
+DIFFICULT/MYSTERIOUS~Cryptic: Mysterious in meaning; puzzling; ambiguous ,ex-A cryptic message 
+DIFFICULT/MYSTERIOUS~Enigma: (i)A puzzling or inexplicable occurrence or situation.ex-His disappearance is an enigma that has given rise to much speculation.(ii)A person of puzzling or contradictory character To me he has always been an enigma, one minute completely insensitive, the next moved to tears. 
+DIFFICULT/MYSTERIOUS~Inscrutable: Incapable of being investigated, analyzed, or scrutinized;Not easily understood; mysterious; unfathomable,ex-An inscrutable smile
+
+ -------------------------------- 
+
+
+
+CONFUSE~Baffle: To confuse, bewilder, or perplex.ex-He was baffled by the technical language of the instructions.
+CONFUSE~Confute:  to prove to be false, invalid, or defective; disprove to confute one's opponent.
+CONFUSE~Nonplus: to render utterly perplexed; puzzle completely.
+CONFUSE~Perplex: to cause to be puzzled or bewildered over what is not understood or certain; confuse mentally.Her strange response perplexed me.
+CONFUSE~Startle: to disturb or agitate suddenly as by surprise or alarm.
+CONFUSE~Obfuscate: To confuse, bewilder, or stupefy. To make obscure or unclear. To obfuscate a problem with extraneous information. 
+
+
+
+SURPRISE/AMAZE~Astonish: To fill with sudden and overpowering surprise or wonder; amaze.ex-Her easy humor and keen intellect astonished me.
+SURPRISE/AMAZE~Astound: To overwhelm with amazement; astonish greatly; shock with wonder or surprise.
+SURPRISE/AMAZE~Bewilder: To prove to be false, invalid, or defective; disprove.ex-To confute an argument. 
+----------------
+
+TALKING TOO MUCH/INDIRECT SPEECH~Circumlocution: A roundabout or indirect way of speaking; the use of more words than necessary to express an idea. A roundabout expression.
+TALKING TOO MUCH/INDIRECT SPEECH~Diffusive: Deviating in nature/ moving around from the central point. 
+TALKING TOO MUCH/INDIRECT SPEECH~Discursive: Passing aimlessly from one subject to another; digressive; rambling. Proceeding by reasoning or argument rather than intuition. 
+TALKING TOO MUCH/INDIRECT SPEECH~Periphrasis: The use of an unnecessarily long or roundabout form of expression;circumlocution. 
+TALKING TOO MUCH/INDIRECT SPEECH~Prolix: Extended to great, unnecessary, or tedious length; long and wordy.(of a person) given to speaking or writing at great or tedious length.
+TALKING TOO MUCH/INDIRECT SPEECH~Tautology: Needless repetition of an idea, esp. in words other than those of the immediate context, without imparting additional force or clearness, as in �widow woman.� an instance of such repetition.
+TALKING TOO MUCH/INDIRECT SPEECH~ Verbiage: Overabundance or superfluity of words, as in writing or speech; wordiness;verbosity.Manner or style of expressing something in words; wording a manual of official verbiage. 
+TALKING TOO MUCH/INDIRECT SPEECH~ Wordiness: Characterized by or given to the use of many, or too many, words; verbose. She grew impatient at his wordy reply. 	pertaining to or consisting of words; verbal
+TALKING TOO MUCH/INDIRECT SPEECH~ Verbose: Characterized by the use of many or too many words; wordy a verbose report       
+TALKING TOO MUCH/INDIRECT SPEECH~ Expatiate: to enlarge in discourse or writing; be copious in description or discussion; to expatiate upon a theme  Excessively talkative in a rambling, roundabout manner, esp. about trivial matters. 
+TALKING TOO MUCH/INDIRECT SPEECH~ Garrulous: Wordy or diffuse; a garrulous and boring speech.
+TALKING TOO MUCH/INDIRECT SPEECH~Loquacious: (i) Talking or tending to talk much or freely; talkative; chattering; babbling; garrulous a loquacious dinner guest. (ii)Characterized by excessive talk; wordy easily the most loquacious play of the season.(iii)Characterized by verbosity or unnecessary repetition in expressing ideas; prolix a redundant style. 
+TALKING TOO MUCH/INDIRECT SPEECH~ Redundant: Being in excess; exceeding what is usual or natural a redundant part
+TALKING TOO MUCH/INDIRECT SPEECH~Rhetorical: Used for, belonging to, or concerned with mere style or effect. marked by or tending to use bombast.
+TALKING TOO MUCH/INDIRECT SPEECH~ Pleonasm: The use of more words than are necessary to express an idea; redundancy.ex-an instance of this, as free gift or true fact
+
+TALKING LESS/BRIEF~Concise: Expressing or covering much in few words; brief in form but comprehensive in scope; succinct; terse; a concise explanation of the company's retirement plan.
+TALKING LESS/BRIEF~Succinct: Expressed in few words; concise; terse, characterized by conciseness or verbal brevity.
+TALKING LESS/BRIEF~Terse: Neatly or effectively concise; brief and pithy, as language, abruptly concise; curt; brusque.
+TALKING LESS/BRIEF~Brevity: Shortness of time or duration; briefness; the brevity of human life. The quality of expressing much in few words; terseness; Brevity is the soul of wit.
+TALKING LESS/BRIEF~Laconic: using few words; expressing much in few words; concise. a laconic reply
+TALKING LESS/BRIEF~Reticent: Disposed to be silent or not to speak freely; reserved. reluctant or restrained,He is a reticent person.
+----------------------------------
+
+DULL/BORING/OVERUSED~Banal : Devoid of freshness or originality; hackneyed; trite a banal and sophomoric treatment of courage on the frontier. 
+DULL/BORING/OVERUSED~Bromide: A platitude or trite saying. A person who is platitudinous and boring.
+DULL/BORING/OVERUSED~Clich�: A trite, stereotyped expression; a sentence or phrase, usually expressing a popular or common thought or idea that has lost originality, ingenuity, and impact by long overuse, as sadder but wiser, or strong as an ox
+DULL/BORING/OVERUSED~Hackneyed: Made commonplace or trite; stale; banalthe hackneyed images of his poetry.
+DULL/BORING/OVERUSED~Platitude:A flat, dull, or trite remark, esp. one uttered as if it were fresh or profound.the quality or state of being flat, dull, or trite the platitude of most political oratory.
+DULL/BORING/OVERUSED~Trite:  Lacking in freshness or effectiveness because of constant use or excessive repetition; hackneyed; stale	the trite phrases in his letter
+DULL/BORING/OVERUSED~Vapid: Lacking or having lost life, sharpness, or flavor; insipid; flat; vapid tea. without liveliness or spirit; dull or tedious a vapid party; vapid conversation. 
+DULL/BORING/OVERUSED~Prosaic:  Commonplace or dull; matter-of-fact or unimaginative; a prosaic mind.of or having the character or form of prose rather than poetry
+DULL/BORING/OVERUSED~ Insipid: (i) without distinctive, interesting, or stimulating qualities; vapid an insipid personality. (ii) without sufficient taste to be pleasing, as food or drink; bland a rather insipid soup
+DULL/BORING/OVERUSED~Mundane: Of or pertaining to this world or earth as contrasted with heaven; worldly; earthly; mundane affairs.
+ 	
+--------
+PRAISE~Accolade: Any award, honor, or laudatory notice. The play received accolades from the press. 85.	A light touch on the shoulder with the flat side of the sword or formerly by an embrace, done in the ceremony of conferring knighthood.
+PRAISE~Adulate: To show excessive admiration or devotion to; flatter or admire servilely.  
+PRAISE~Approbation:  Approval; commendation. official approval or sanction.
+PRAISE~Applause:  Hand clapping as a demonstration of approval, appreciation, acclamation, or the like.  Any positive expression of appreciation or approval; acclamation
+PRAISE~Eulogy:  A speech or writing in praise of a person or thing, esp. a set oration in honor of a deceased person. High praise or commendation
+PRAISE~Exalt:  To raise in rank, honor, power, character, quality, etc.; elevate; He was exalted to the position of president. To praise; extol; to exalt someone to the skies
+PRAISE~Laudable: Deserving praise; praiseworthy; commendable. Reorganizing the files was a laudable idea.  
+PRAISE~Panegyric: A lofty oration or writing in praise of a person or thing; eulogy. Formal or elaborate praise
+PRAISE~Commend: A song of joyful praise or exultation. A fervent expression of joy or praise; "The art . . . was a paean to paganism.
+
+
+CRITICIZE/SCOLD~ Abuse: To use wrongly or improperly; misuse. to abuse one's authority.To treat in a harmful, injurious, or offensive way; to abuse a horse; to abuse one's eyesight
+CRITICIZE/SCOLD~Barb:   A point or pointed part projecting backward from a main point, as of a fishhook or arrowhead. An obviously or openly unpleasant or carping remark.
+CRITICIZE/SCOLD~Censure:  Strong or vehement expression of disapproval. The newspapers were unanimous in their censure of the tax proposal.
+CRITICIZE/SCOLD~Castigate: To criticize or reprimand severely. To punish in order to correct. 
+CRITICIZE/SCOLD~Upbraid:   To find fault with or reproach severely; censure. The military tribunal upbraided the soldier for his cowardice. To bring reproach on; serve as a reproach.
+CRITICIZE/SCOLD~Berate:  To scold; rebuke. He berated them in public.
+CRITICIZE/SCOLD~Vituperate: To use or address with harsh or abusive language; revile.  
+CRITICIZE/SCOLD~Admonish: To caution, advise, or counsel against something strongly criticize. To reprove or scold, esp. in a mild and good-willed manner; The teacher admonished him about excessive noise
+
+------------------
+
+
+
+HASTE/HURRY~Hasten: To move or act with extreme speed; hurry. to hasten to a place.
+HASTE/HURRY~Accelerate: To cause faster or greater activity, development, progress, advancement, etc., in. to accelerate economic growth.   
+HASTE/HURRY~Bolt:  A sudden dash, run, flight, or escape.A sudden desertion from a meeting, political party, social movement, etc His decision to leave college was a bolt from the blue for his parents
+HASTE/HURRY~Expedite: To speed up/progress/advance; hasten; to expedite shipments.To accomplish promptly, as a piece of business; dispatch. to expedite one's duties
+HASTE/HURRY~Gallop: To ride at a gushing speed; ride at full speed; He galloped the horse towards the palace.	To run rapidly by leaps, as a horse; go at a gallop
+HASTE/HURRY~ Hustle: To proceed or work rapidly or energetically; to hustle about putting a house in     order. To push or force one's way; jostle or shove.To be aggressive, esp. in business or other financial dealings.
+HASTE/HURRY~Precipitate:  To hasten the occurrence of; bring about prematurely, hastily, or suddenly. to precipitate an international crisis. To cast, plunge, or send, esp. violently or abruptly; He precipitated himself into the struggle.    
+HASTE/HURRY~Spurt: to show marked, usually increased, activity or energy for a short period The runners spurted forward in the last lap of the race. 
+HASTE/HURRY~Scurry: to go or move swiftly.the scurry of little feet on the stairs.
+----------------------------
+
+SLOW~Lag: to fail to maintain a desired pace or to keep up; fall or stay behind	After five minutes of hard running, some of them began to lag.
+SLOW~Linger: to remain or stay on in a place longer than is usual or expected, as if from reluctance to leave.We lingered awhile after the party.
+SLOW~Loiter:  To linger aimlessly or as if aimless in or about a place	to loiter around the bus terminal.
+SLOW~Procrastinate: To defer action; delay. to procrastinate until an opportunity is lost.To put off till another day or time; defer; delay      
+SLOW~Tarry:   To remain or stay, as in a place; sojourn. He tarried in Baltimore on his way to Washington. To delay or be tardy in acting, starting, coming, etc.; linger or loiter.
+----------------------------
+WRITE~Calligraphy: Fancy penmanship, esp. highly decorative handwriting, as with a great many flourishes; She appreciated the calligraphy of the 18th century. The art of writing beautifully; He studied calligraphy when he was a young man
+WRITE~	Cacography: Bad handwriting; poor penmanship. Incorrect spelling.
+WRITE~	Cursive: Having the successive letters joined together. cursive writing; a cursive style of type. 
+WRITE~Crabbed: Grouchy; ill-natured; irritable; churlish. Perverse; contrary; obstinate.Hard to understand; intricate and obscure. 	Difficult to read or decipher, as handwriting.
+WRITE~	Scrawl:  To write or draw in a sprawling, awkward manner. He scrawled his name hastily across the blackboard.
+WRITE~Scribble: (i)To write hastily or carelessly.To scribble a letter.(ii) To cover with meaningless writing or marks.to scribble all over a page.
+WRITE~	Transcribe: To make a written copy, esp. a typewritten copy, To make an exact copy of (a document, text, etc.)
+WRITE~Compose: To make or form by combining things, parts, or elements.He composed his speech from many research notes.
+-------------------------
+
+
+ARROGANT~Audacious: (i) Extremely bold or daring; recklessly brave; fearless.an audacious explorer.(ii) extremely original; without restriction to prior ideas; highly inventive an audacious vision of the city's bright future.
+ARROGANT~ Cavalier: (i) Haughty, disdainful, or supercilious.an arrogant and cavalier attitude toward others.(ii) Offhand or unceremonious The very dignified officials were confused by his cavalier manner.
+ARROGANT~ Autocratic: (i)Pertaining to or of the nature of autocracy or of an autocrat; absolute.autocratic government.(ii) Like an autocrat; tyrannical; despotic; domineering.autocratic behavior; an autocratic person.
+ARROGANT~ Imperious: (i)Domineering in a haughty manner; dictatorial; overbearing.an imperious manner; an imperious person.(ii) Urgent; imperative.imperious need
+ARROGANT~ Haughty: Disdainfully proud; snobbish; scornfully arrogant; supercilious.haughty aristocrats; a haughty salesclerk 
+ARROGANT~ Overbearing: (i)To overcome or overwhelm.A spirited defense had overborne the enemy attack.(ii) To prevail over or overrule (wishes, objections, etc.)She overbore all objections to the new plan.
+ARROGANT~ Supercilious: Expressive of contempt; "curled his lip in a supercilious smile"; "spoke in a sneering jeering manner"; "makes many a sharp comparison but never a mean or snide one.
+ARROGANT~ High handed: (i)Condescending or presumptuous; overbearing; arbitrary. He has a highhanded manner.(ii) Done, acting, without consultation of, or consideration for, other people  A high-handed decision; A new headmaster should try not to be too high-handed.
+
+-------------------------
+
+TO REDUCE/HUMILIATE/DISCOMFORT~ Abase: To reduce or lower, as in rank, office, reputation, or estimation; humble; degrade.
+TO REDUCE/HUMILIATE/DISCOMFORT~Debase: (i)To reduce in quality or value; adulterate.They debased the value of the dollar.(ii) To lower in rank, dignity, or significance .He wouldn't debase himself by doing manual labor. 
+TO REDUCE/HUMILIATE/DISCOMFORT~ Degrade: To lower in dignity or estimation; bring into contempt.He felt they were degrading him by making him report to the supervisor.
+TO REDUCE/HUMILIATE/DISCOMFORT~ Discomfit: To confuse and deject; disconcert.to be discomfited by a question.
+TO REDUCE/HUMILIATE/DISCOMFORT~Embarrass: (i) To make ashamed, uncomfortable, self-conscious;disconcert; abash.His bad table manners embarrassed her.(ii) To put obstacles or difficulties in the way of; impedeThe motion was advanced in order to embarrass the progress of the bill.
+TO REDUCE/HUMILIATE/DISCOMFORT~ Humiliate: To cause (a person) a painful loss of pride, self-respect, or dignity; mortify Cause to feel shame; hurt the pride of;He humiliated his colleague by criticizing him in front of the boss.
+TO REDUCE/HUMILIATE/DISCOMFORT~Chagrin: A keen feeling of mental unease, as of annoyance or embarrassment, caused by failure, disappointment, or a disconcerting event To her chagrin, the party ended just as she arrived.
+TO REDUCE/HUMILIATE/DISCOMFORT~Denigrate: (i)To speak damagingly of; criticize in a derogatory manner; sully; defame  to denigrate someone's character.(ii) To treat or represent as lacking in value or importance; belittle; disparage to denigrate someone's contributions to a project.		
+TO REDUCE/HUMILIATE/DISCOMFORT~Snub: To treat, or speak to, in a cold, scornful way; to insult He snubbed me by not replying to my question.	
+TO REDUCE/HUMILIATE/DISCOMFORT~ Condescend: (i) To stoop or deign to do something.He would not condescend to misrepresent the facts. (ii) To put aside one's dignity or superiority voluntarily and assume equality with one regarded as inferior.He condescended to their intellectual level in order to be understood.
+---------------------
+
+AFFIRM/PROMISE~Affirm: (i)To confirm or ratify .The appellate court affirmed the judgment of the lower court.(ii) To assert solemnly.He affirmed his innocence.
+AFFIRM/PROMISE~Assert: To insist on one's rights, declare one's views forcefully, etc.The candidate finally asserted himself about property taxes.
+AFFIRM/PROMISE~Aver: To insist on one's rights, declare one's views forcefully, etc.The candidate finally asserted himself about property taxes.
+AFFIRM/PROMISE~Asseverate: To declare earnestly or solemnly; affirm positively; aver
+AFFIRM/PROMISE~Swear: (i)To testify or state on oath.He swore it on the witness stand.(ii) To use profane oaths or language Don't swear in front of the children.
+AFFIRM/PROMISE~Oath: (i)To testify or state on oath He swore it on the witness stand (ii) Any profane expression; curse; swearword He slammed the door with a muttered oath.
+AFFIRM/PROMISE~Affidavit: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
+AFFIRM/PROMISE~Predicate: To connote; imply. His retraction predicates a change of attitude.
+AFFIRM/PROMISE~Testify: To make a declaration of truth or fact under oath; submit testimony.Witnesses testifying before a grand jury.
+AFFIRM/PROMISE~Ratify: To confirm by expressing consent, approval, or formal sanction.To ratify a constitutional amendment.
+---------------
+
+DENY/GIVE UP~ Abnegation: To refuse or deny oneself (some rights, conveniences, etc.); reject; renounce.  To relinquish; give up
+DENY/GIVE UP~Controvert: To argue against; dispute; deny; oppose. To argue about; debate; discuss.
+DENY/GIVE UP~ Rebut: To refute by evidence or argument. To oppose by contrary proof
+DENY/GIVE UP~ Repudiate: (i)To reject with disapproval or condemnation.To repudiate a new doctrine.(ii) To reject with denial.To repudiate a charge as untrue.
+DENY/GIVE UP~Oppugn: Challenge the accuracy, probity, or propriety of;"We must question your judgment in this matter"
+
+
+
+CANCEL/WITHDRAW~ Abrogate: To abolish by formal or official means; annul by an authoritative act; repeal to abrogate a law.
+CANCEL/WITHDRAW~ Repeal: To revoke or withdraw formally or officially.to repeal a grant.
+CANCEL/WITHDRAW~ Rescind: To abrogate; annul; revoke; repeal. To invalidate (an act, measure, etc.) by a later action or a higher authority
+CANCEL/WITHDRAW~ Annul: To reduce to nothing; obliterate. to make void or null; abolish; cancel; invalidate.to annul a marriage.
+CANCEL/WITHDRAW~Abolish: To do away with; put an end to; annul; make void.to abolish slavery.
+---------
+
+CLEAN~ Cleansed:To make clean. To remove by or as if by cleaning.To cleanse sin from the soul.
+CLEAN~Hygienic: Conducive to good health; healthful; sanitary. Of or pertaining to hygiene.
+CLEAN~Immaculate: (i)Free from spot or stain; spotlessly clean.immaculate linen.(ii) Free from fault or flaw; free from errors an immaculate text.
+CLEAN~ Tidy: (i)Neat, orderly, or trim, as in appearance or dress.a tidy room; a tidy person.(ii) Clearly organized and systematic.a tidy mind; a tidy way of working.(iii) Tolerably good; acceptable.They worked out a tidy arrangement agreeable to all.CLEAN~ Spruce; Trim in dress or appearance; neat; smart; dapper.To make spruce or smart.Spruce up the children before the company comes.
+CLEAN~ Trim: (i)To put into a neat or orderly condition by clipping, paring, pruning, etc.To trim a hedge.(ii) To cut down, as to required size or shape.Trim a budget; trim a piece of wood.  
+
+
+
+UNCLEAN/DISORGANIZED~ Dirty: Vile; mean; sordid; contemptible.To play a dirty trick on someone.
+UNCLEAN/DISORGANIZED~ Filthy: Foul with, characterized by, or having the nature of filth; disgustingly or completely dirty.Contemptibly offensive, vile, or objectionable.To treat one's friends in a filthy manner.
+UNCLEAN/DISORGANIZED~ Cluttered: A confused or disordered state or collection; a jumble. A confused noise; a clatter.Sorted through the clutter in the attic. 
+UNCLEAN/DISORGANIZED~ Tarnished: (i)To detract from or spoil; taint a tragedy that tarnished our hopes.(ii) To cast aspersions on; sully slander that tarnished the senator's image.
+UNCLEAN/DISORGANIZED~ Fetid: Having an offensive odor; stinking     	  
+UNCLEAN/DISORGANIZED~ Putrid: Proceeding from, relating to, or exhibiting putrefaction. Morally rotten; corrupt And all the while scarlet thoughts, putrid fantasies, and no love.
+UNCLEAN/DISORGANIZED~ Rancid: Having a rank, unpleasant, stale smell or taste, as through decomposition, esp. of fats or oils.rancid butter.
+UNCLEAN/DISORGANIZED~ Slovenly: Negligent of neatness especially in dress and person; habitually dirty and unkempt; filled the door with her frowzy bulk; frowzy white hair; slovenly appearance.
+UNCLEAN/DISORGANIZED~ Sordid: Filthy or dirty; foul, depressingly squalid; wretched.Sordid shantytowns
+UNCLEAN/DISORGANIZED~ Squalid: Morally repulsive.The squalid atmosphere of intrigue, betrayal, and counter betrayal
+  
+
+
+ACTIVE/ATTENTIVE~ Astir: Moving or stirring, esp. with much activity or excitement. The field was astir with small animals, birds, and insects.
+ACTIVE/ATTENTIVE~Animated: (i) Full of life, action, or spirit; lively; vigorous  An animated debate on the death penalty.(ii)Made or equipped to move or give the appearance of moving in an animal like fashion Animated puppets
+ACTIVE/ATTENTIVE~ Bustling: (i) To move or act with a great show of energy (often fol. by about) He bustled about cooking breakfast.(ii)To abound or teem with something; display an abundance of something; teem (often fol. by with)The office bustled with people and activity.
+ACTIVE/ATTENTIVE~ Dynamic: (i) Pertaining to or characterized by energy or effective action; vigorously active or forceful; energetic The dynamic president of the firm.(ii)Characterized by continuous change, activity, or progress A dynamic market.
+ACTIVE/ATTENTIVE~Energetic: Possessing or exhibiting energy, esp. in abundance; vigorous                				An energetic leader. 
+ACTIVE/ATTENTIVE~ Efficacious: Capable of having the desired result or effect; effective as a means, measure,remedy, etc.The medicine is efficacious in stopping a cough.
+ACTIVE/ATTENTIVE~ Assiduous: Constant; unremitting Assiduous reading.                                            
+ACTIVE/ATTENTIVE~ Industrious: Working energetically and devotedly; hard-working; diligent An industrious person
+ACTIVE/ATTENTIVE~ Nimble: (i) Quick and light in movement; moving with ease; agile; active; rapid Nimble feet.(ii)Quick, clever, and acute in devising or understanding Nimble wits
+
+
+INACTIVE~Dormant: (i) Lying asleep or as if asleep; inactive, as in sleep; torpid .The lecturer's sudden shout woke the dormant audience.(ii)In a state of rest or inactivity; inoperative; in abeyance; The project is dormant for the time being.
+INACTIVE~Inert: Unable to move or resist motion Having only a limited ability to react chemically; chemically inactive.
+INACTIVE~ Lazy: Averse or disinclined to work, activity, or exertion; indolent. Slow-moving; sluggish .A lazy stream.
+INACTIVE~ Sluggish: Indisposed to action or exertion; lacking in energy; lazy; indolent.A sluggish disposition.
+INACTIVE~ Idle: (i) Not in use or operation; not kept busy Idle machinery.(ii) Habitually doing nothing or avoiding work; lazy, Of no real worth, importance, or significanceIdle talk
+INACTIVE~ Quiescent: (i) Not active or activated;The quiescent level of centimeter wave-length solar radiation (ii) Marked by a state of tranquil repose. The quiescent melancholy of the town"
+INACTIVE~Hibernating: To withdraw or be in seclusion; retire.Each winter finds us hibernating in Florida.
+INACTIVE~Latent: (i) Present but not visible, apparent, or actualized; existing as potential Latent ability.(ii)Hidden or undeveloped, but capable of being developed A latent talent for music 
+INACTIVE~ Lethargic: Pertaining to, or affected with lethargy; drowsy; sluggish.  Producing lethargy.
+INACTIVE~ Slumber: (i) To spend or pass (time) in slumbering (often fol. by away, out, or through)To slumber the afternoon away. (ii)To dispel or forget by slumbering (often fol. by away)To slumber cares away.
+------------------------------------
+
+
+TIRED/WEAKEN~Exhausted: (i) To use up completely Exhausted our funds before the month was out.(ii)To treat completely; cover thoroughly Exhaust a topic.(iii)To draw out the contents of; drain Exhaust a tank gradually.
+TIRED/WEAKEN~Exasperated: To irritate or provoke to a high degree; annoy extremely He was exasperated by the senseless delays.
+TIRED/WEAKEN~ Fagged: To exhaust; weary Four hours on the tennis court fagged me out.
+TIRED/WEAKEN~ Fatigue: Weariness from bodily or mental exertion.The fatigue of driving for many hours.
+TIRED/WEAKEN~ Haggard: Having a gaunt, wasted, or exhausted appearance, as from prolonged suffering,exertion, or anxiety; worn The haggard faces of the tired troops.
+TIRED/WEAKEN~Prostrate: Lying face down on the ground, as in token of humility, submission, or  adoration. Overthrown, overcome, or helpless.A country left prostrate by natural disasters. 
+  
+TIRED/WEAKEN~ Weary: (i) Physically or mentally exhausted by hard work, exertion, strain, etc.; fatigued;weary eyes; a weary brain. (ii)Characterized by or causing fatigue A weary journey
+
+TIRED/WEAKEN~ Enervate: To weaken or destroy the strength or vitality of The luxury which enervates and destroys nations.
+
+
+PREVENT/CONTROL~ Hinder: (i) To cause delay, interruption, or difficulty in; hamper; impede The storm hindered our progress. (ii)To prevent from doing, acting, or happening; stop To hinder a man from committing a crime. 
+
+PREVENT/CONTROL~ Balk: To stop, as at an obstacle, and refuse to proceed or to do something specified He balked at making the speech.
+
+PREVENT/CONTROL~Bottleneck: (i) Slow down or impede by creating an obstruction;His laziness has bottlenecked our efforts to reform the system (ii) Become narrow, like a bottleneck; Right by the bridge, the road bottlenecks
+PREVENT/CONTROL~ Clog: (i)To hinder or obstruct with thick or sticky matter; choke up To clog a drain.(ii)To crowd excessively, esp. so that movement is impeded; overfill Cars clogged the highway.
+PREVENT/CONTROL~Curb: To control as with a curb; restrain; check.Curb your dog
+PREVENT/CONTROL~ Fetter: To restrict. Anything that confines or restrains Boredom puts fetters upon the imagination.
+PREVENT/CONTROL~ Impede: To retard in movement or progress by means of obstacles or hindrances;obstruct; hinder. Be a hindrance or obstacle to.She is impeding the progress of our project.
+PREVENT/CONTROL~ Preclude: (i)To prevent the presence, existence, or occurrence of; make impossible The insufficiency of the evidence precludes a conviction.(ii)To exclude or debar from something His physical disability precludes an athletic career for him.
+PREVENT/CONTROL~ Thwart: To prevent the occurrence, realization, or attainment of They thwarted her plans. 
+PREVENT/CONTROL~Subdue: To overpower by superior force; overcome. To conquer and bring into subjection.Rome subdued Gaul.
+
+
+
+PLENTY/EXCESS~ Copious: (i) Large in quantity or number; abundant; plentiful Copious amounts of food.(ii) Having or yielding an abundant supply A copious larder; a copious harvest.
+
+PLENTY/EXCESS~ Ample: (i) Fully sufficient or more than adequate for the purpose or needs; plentiful; enough.An ample supply of water; ample time to finish. (ii)Of sufficient or abundant measure; liberal; copious. An ample reward. 
+
+PLENTY/EXCESS~ Bountiful: Liberal in bestowing gifts, favors, or bounties; munificent; generous. Abundant; ample.A bountiful supply.
+
+PLENTY/EXCESS~ Generous: (i) Liberal in giving or sharing; unselfish A generous patron of the arts; a generous gift. (ii)Large; abundant; ample A generous portion of pie.
+
+PLENTY/EXCESS~ Lavish: (i) Expended, bestowed, or occurring in profusion Lavish spending. (ii)Using or giving in great amounts; prodigal (often fol. by of) Lavish of his time; lavish of affection.
+ 
+PLENTY/EXCESS~Profuse: (i) Spending or giving freely and in large amount, often to excess; extravagant(often fol. by in) Profuse praise.(ii)Made or done freely and abundantly Profuse apologies. 
+
+PLENTY/EXCESS~ Replete: Abundantly supplied or provided; filled (usually fol. by with) A speech replete with sentimentality.
+	
+PLENTY/EXCESS~ Galore: In abundance;In plentiful amounts food and drink galore.
+
+PLENTY/EXCESS~ Plethora: Overabundance; excess A plethora of advice and a paucity of assistance.
+
+PLENTY/EXCESS~ Oodles: A large number or amount; "made lots of new friends"; "she amassed stacks of newspapers.
+
+
+SHORTAGE~ Dearth: An inadequate supply; scarcity; lack There is a dearth of good engineers. 	
+SHORTAGE~ Meager: Deficient in quantity or quality; lacking fullness or richness; scanty; inadequate A meager salary; meager fare; a meager harvest.
+SHORTAGE~ Scanty: Scant in amount, quantity, etc.; barely sufficient. Meager; not adequate.
+SHORTAGE~ Scarce: (i) Insufficient to meet a demand or requirement; short in supply; Fresh vegetables were scarce during the drought. (ii)Hard to find; absent or rare Steel pennies are scarce now except in coin shops.
+SHORTAGE~ Iota: The ninth letter of the Greek alphabet. A very small amount; a bit Not an iota of truth to that tale. 
+SHORTAGE~ Modicum: A moderate or small amount.He hasn't even a modicum of common sense.
+
+
+
+RICH~Affluent: Having an abundance of wealth, property, or other material goods; prosperous; rich An affluent person.
+RICH~ Opulent: Characterized by or exhibiting opulence An opulent suite.
+RICH~ Fecund: (i) Producing or capable of producing offspring, fruit, vegetation, etc., in abundance; prolific; fruitful Fecund parents; fecund farmland.(ii)Very productive or creative intellectually The fecund years of the Italian Renaissance.
+RICH~ Gild: To cover with or as if with a thin layer of gold.	To give an often deceptively  attractive or improved appearance to
+RICH~ Plush: (i)Expensively or showily luxurious The plushest hotel in town (ii)Abundantly rich; lush; luxuriant plush, rolling lawns
+
+
+
+POOR~ Destitute:Utterly lacking; devoid Young recruits destitute of any experience. 
+POOR~ Bankrupt:Any insolvent debtor; a person unable to satisfy any just claims made upon him or her. A person who is lacking in a particular thing or quality A moral bankrupt.
+POOR~ Impecunious:Lacking money; penniless
+POOR~ Impoverished:Deprived of strength, vitality, creativeness, etc. An impoverished attempt at humor
+POOR~ Indigent:Lacking food, clothing, and other necessities of life because of poverty; needy;poor; impoverished.
+POOR~ Insolvent:Unable to meet or discharge financial obligations; An insolvent person; an insolvent estate.
+POOR~ Penniless:Without any money whatsoever; totally impoverished; destitute
+POOR~ Penury:A state of extreme poverty or destitution; "their indigence appalled him"; "a general state of need exists among the homeless"
+------------------------------------
+WASTEFUL~ Profligate:Utterly and shamelessly immoral or dissipated; thoroughly dissolute. Recklessly wasteful; "prodigal in their expenditures"
+WASTEFUL~ Prodigal:(i)Wastefully or recklessly extravagant Prodigal expenditure. (ii)Giving or yielding profusely; lavish (usually fol. by of or with) Prodigal of smiles; prodigal with money.(iii)Lavishly abundant; profuse Nature�s prodigal resources.
+WASTEFUL~ Extravagant:(i)Spending much more than is necessary or wise; wasteful An extravagant shopper.(ii)Excessively high extravagant expenses; extravagant prices.
+WASTEFUL~Immoderate: Exceeding normal or appropriate bounds; extreme Immoderate spending; immoderate laughter.
+WASTEFUL~Spendthrift: Recklessly wasteful; prodigal in their  expenditures
+WASTEFUL~Squander: Spend thoughtlessly; throw away;You squandered the opportunity to get and advanced degree
+
+
+CAREFUL/STINGY~Economical:Intended to save money, as by efficient operation or elimination of unnecessary features; economic	an economical heating system; an economical approach to control of corporate growth. 
+CAREFUL/STINGY~Parsimonious:Excessively unwilling to spend; "parsimonious thrift relieved by few generous impulses"; "lived in a most penurious manner--denying himself every indulgence"
+CAREFUL/STINGY~Stingy:Reluctant to give or spend; not generous; niggardly; penurious	He's a stingy old miser.
+----------------------------------------
+
+BIG~Colossal:So great in size or force or extent as to elicit awe; "colossal crumbling ruins of an ancient temple"; "has a colossal nerve"; "a prodigious storm";"a stupendous field of grass"; "stupendous demand".
+BIG~Elephantine:Huge, ponderous, or clumsy elephantine movements; elephantine humor
+BIG~Enormous:(i) Greatly exceeding the common size, extent, etc.; huge; immense an enormous fortune.(ii) Outrageous or atrocious.Enormous wickedness; enormous crimes.
+BIG~Gigantic:(i) Exceedingly large of its kind a gigantic toadstool.(ii) Very large or extensive a gigantic corporation
+BIG~Gargantuan:Gigantic; enormous; colossal/huge a gargantuan task.
+BIG~Jumbo: Of great mass; huge and bulky "a jumbo jet"; "jumbo shrimp"
+BIG~Vast:(i)Of very great size or proportions; huge; enormous vast piles of rubble left in the wake of the war.(ii) Very great in number, quantity, amount, etc.Vast sums of money.	
+BIG~Stupendous:(i) Causing amazement; astounding; marvelous stupendous news.(ii) Amazingly large or great; immense.a stupendous mass of information.
+BIG~Tremendous:(i) Extraordinarily great in size, amount, or intensity.A tremendous ocean liner; tremendous talent.(ii) Extraordinary in excellence a tremendous movie.
+
+SMALL~ Miniscule:A small cursive script developed from uncial between the seventh and ninth centuries and used in medieval manuscripts. A lowercase letter.
+SMALL~ Tiny: Very small; "diminutive in stature"; "a Lilliputian chest of drawers"; "her petite	figure;	"tiny feet"; "the flyspeck nation of Bahrain moved toward democracy" 
+SMALL~ Dwarf:To cause to appear or seem small in size, extent, character, etc., as by being much larger or better.He dwarfed all his rivals in athletic ability.
+SMALL~ Miniature:in a reduced size; on a small scale. The zoo exhibition offered a jungle in miniature.
+SMALL~ Minute:Extremely small, as in size, amount, extent, or degree minute differences.
+SMALL~ Petite:A category of clothing sized for women or girls of less than average height and with average or diminutive figures.The petites are on that rack.
+SMALL~ Pygmy:People who are of small importance, or who has some quality, attribute, etc., in very small measure.  
+-----------------------------------------------------------------------------------------
+
+LESSEN/DECREASE~Abate:(i)To deduct or subtract.To abate part of the cost.(ii) To omit.	To abate all mention of names.
+LESSEN/DECREASE~ Allay:To calm or pacify; set to rest.Allayed the fears of the worried citizens.                                                                                        
+LESSEN/DECREASE~ Decline:(i)To withhold or deny consent to do, enter into or upon, etc.; refuse  He declined to say more about it.ii) To express inability or reluctance to accept; refuse with courtesy.to decline an invitation; to decline an offer.
+LESSEN/DECREASE~ Dwindle:To make smaller and smaller; cause to shrink. Failing health dwindles ambition.
+LESSEN/DECREASE~ Ebb: Flow back or recede; "the tides ebbed at noon".
+LESSEN/DECREASE~ Quell:(I)To suppress; put an end to; extinguish. To vanquish; subdue.The troops quelled the rebellion quickly.ii) To quiet or allay (emotions, anxieties, etc.)The child's mother quelled his fears of the thunder.
+LESSEN/DECREASE~ Recede:To draw back or withdraw from a conclusion, viewpoint, undertaking, promise, etc  to slope backward.A chin that recedes. 
+LESSEN/DECREASE~ Wane:(i)To decrease in strength, intensity, etc.	Daylight waned, and night came on. Her enthusiasm for the cause is waning.(ii) To decline in power, importance, prosperity, etc.Colonialism began to wane after World War II.
+LESSEN/DECREASE~ Taper:Gradual diminution of width or thickness in an elongated object. Gradual decrease of force, capacity, etc.]
+INCREASE~Aggrandize:To make greater in power, influence, stature, or reputation. To make appear greater; exaggerate.Aggrandize one argument while belittling another.
+INCREASE~Amplify:To write or discourse at length; expatiate.Let me amplify so that you will understand the overall problem.
+INCREASE~Augment:To make larger; enlarge in size, number, strength, or extent; increase His salary is augmented by a small inheritance.
+INCREASE~ Boost:(i) advance or aid by speaking well of; promote.She always boosts her hometown.(ii) To increase; raise	to boost prices; to boost the horsepower of the car by 20 percent.
+INCREASE~ Dilate:Become wider.�His pupils were dilated" 
+INCREASE~Distend:(i)To expand by stretching, as something hollow or elastic.Habitual overeating had distended his stomach.(ii) To spread in all directions; expand; swell.The sea distended about them.
+INCREASE~ Escalate:To increase in intensity, magnitude, etc.To escalate a war; a time when prices escalate.INCREASE~ Proliferate; To grow or produce by multiplication of parts, as in budding or cell division, or by procreation. To increase or spread at a rapid rate.Fears that nuclear weapons might proliferate.
+INCREASE~ Inflate:(i)To distend; swell or puff out; dilate.The king cobra inflates its hood.(ii) To cause to expand or distend with air or gas.To inflate a balloon.
+INCREASE~ Hype:To create interest in by flamboyant or dramatic methods; promote or publicize showily.A promoter who knows how to hype a prizefight.
+
+-------------------------------------------------------------------
+
+
+MAKE WORSE/IRRITATE~Exacerbate:To increase the severity, bitterness, or violence of (disease, ill feeling, etc.);aggravate. To embitter the feelings of (a person); irritate; exasperate.
+MAKE WORSE/IRRITATE~ Aggravate:(i)To make worse or more severe; intensify, as anything evil, disorderly, or troublesome.To aggravate a grievance; to aggravate an illness.(ii) To annoy; irritate; exasperate.His questions aggravate her.(iii) To cause to become irritated or inflamed.The child's constant scratching aggravated the rash.
+MAKE WORSE/IRRITATE~ Provoke:To stir up, arouse, or call forth (feelings, desires, or activity).The mishap provoked a hearty laugh.
+MAKE WORSE/IRRITATE~ Irritate: To rouse to impatience or anger; annoy.A loud bossy voice that irritates listeners.
+MAKE WORSE/IRRITATE~ Nag:To keep in a state of troubled awareness or anxiety, as a recurrent pain or problem.She had certain misgivings that nagged her.  
+MAKE WORSE/IRRITATE~ Pester:To bother persistently with petty annoyances; trouble.Don't pester me with your trivial problems.
+MAKE WORSE/IRRITATE~Vex:(i)To irritate; annoy; provoke His noisy neighbors often vexed him.(ii) To torment; trouble; distress; plague; worry.Lack of money vexes many.
+MAKE WORSE/IRRITATE~ Abrade:To wear away by mechanical action. To scrape away the surface layer from a part.
+MAKE WORSE/IRRITATE~ Badger:Annoy persistently; "The children teased the boy because of his stammer"
+MAKE BETTER/IMPROVE~ Alleviate:To make easier to endure; lessen; mitigate  To alleviate sorrow; to alleviate pain.
+MAKE BETTER/IMPROVE~ Soothe:To tranquilize or calm, as a person or the feelings; relieve, comfort,soothing someone's anger; to soothe someone with a hot drink.
+MAKE BETTER/IMPROVE~ Allay: To put (fear, doubt, suspicion, anger, etc.) to rest; calm; quiet. To lessen or relieve; mitigate; alleviate  To allay pain.
+MAKE BETTER/IMPROVE~ Pacify: To bring or restore to a state of peace or tranquility; quiet; calm To pacify an angry man. 
+MAKE BETTER/IMPROVE~ Assuage:(i)To make milder or less severe; relieve; ease; mitigate to assuage one's grief; to assuage one's pain. (ii)To appease; satisfy; allay; relieve; To assuage one's hunger.(iii)To soothe, calm, or mollify; to assuage his fears; to assuage her anger.
+MAKE BETTER/IMPROVE~ Mitigate:To lessen in force or intensity, as wrath, grief, harshness, or pain; To mitigate a punishment. 
+MAKE BETTER/IMPROVE~ Placate:To appease or pacify esp. by concessions or conciliatory gestures; To placate an outraged citizenry.   
+
+                         
+
+---------------------------------------------------
+
+
+    
+ MAIN POINT/PEAK~ Apex: The tip, point, or vertex; summit. Climax; peak; acme; His election to   The presidency was the apex of his career.
+ MAIN POINT/PEAK~ Acme: The highest point; summit; peak;The empire was at the acme of its power.
+ MAIN POINT/PEAK~ Apogee: The point in the orbit of a heavenly body, esp. the moon, or of a man- made satellite at which it is farthest from the earth. The highest or most distant point; Climax
+ MAIN POINT/PEAK~ Climax:The highest or most intense point in the development or resolution of something; culmination; His career reached its climax when he was elected president.
+ MAIN POINT/PEAK~Crest:The top, as of a hill or wave. The crest of a flood; at the crest of her career.
+ MAIN POINT/PEAK~ Crown:The highest point of any construction of convex section or outline, as an arch, vault, deck, or road. 
+ MAIN POINT/PEAK~ Cusp:A point that marks the beginning of a change;  On the cusp of a new era.
+ MAIN POINT/PEAK~ Meridian:The great circle of the celestial sphere that passes through its poles and the observer's zenith.
+ MAIN POINT/PEAK~ Pinnacle:A lofty peak. The highest or culminating point, as of success, power, fame, etc.; The pinnacle of one's career. 
+ MAIN POINT/PEAK~Vertex:the highest point of something; apex; summit; top; The vertex of a mountain. 
+ MAIN POINT/PEAK~ Summit :The highest point or part, as of a hill, a line of travel, or any object; top; apex.The summit of one's ambition.
+ MAIN POINT/PEAK~Zenith:The point on the celestial sphere vertically above a given position or observer. A highest point or state; culmination
+LOWEST POINT~ Abyss:A deep,immeasurable space, gulf, or cavity; vast chasm.Anything profound, unfathomable, or infinite The abyss of time.
+LOWEST POINT~ Nadir:The point on the celestial sphere directly beneath a given position or observer and diametrically opposite the zenith.The cusp of the fourth house. 
+LOWEST POINT~ Perigee:The point in the orbit of a heavenly body, esp. the moon, or of an artificial satellite at which it is nearest to the earth. 
+  
+
+-------------------------------------------------------
+
+QUARRELSOME/ILL TEMPERED~ Quarrelsome:Given to quarreling; "arguing children"; "quarrelsome when drinking" 
+QUARRELSOME/ILL TEMPERED~ Argumentative:(i) Fond of or given to argument and dispute; disputatious;contentious The law students were an unusually argumentative group.  ii) Of or characterized by argument; controversial;An argumentative attitude toward political issues
+QUARRELSOME/ILL TEMPERED~ Bellicose:Inclined or eager to fight; aggressively hostile; belligerent; pugnacious
+QUARRELSOME/ILL TEMPERED~ Petulant:Moved to or showing sudden, impatient irritation, esp. over some trifling annoyance; A petulant toss of the head.
+QUARRELSOME/ILL TEMPERED~ Querulous:Full of complaints; complaining. A querulous tone; constant querulous reminders of things to be done 
+QUARRELSOME/ILL TEMPERED~Truculent:Fierce; cruel; savagely brutal. Brutally harsh; vitriolic; scathing His truculent criticism of her work.
+QUARRELSOME/ILL TEMPERED~ Pugnacious:Combative in nature; belligerent.
+QUARRELSOME/ILL TEMPERED~ Cantankerous:Disagreeable to deal with; contentious; peevish; A cantankerous, argumentative man.                   
+QUARRELSOME/ILL TEMPERED~ Polemical:A controversial argument, as one against some opinion, doctrine, etc.  A person who argues in opposition to another; controversialist.	               
+PEACEFUL~ Tranquil:(i)Free from commotion or tumult; peaceful; quiet; calm; A tranquil country place.(ii)Free from or unaffected by disturbing emotions; serene; placid;  A tranquil life.                       
+PEACEFUL~ Calm:(i)Without rough motion; still or nearly still;A calm sea.  (ii)Not windy or stormy; A calm day. (iii)Free from excitement or passion; tranquil;A calm face; a calm manner.                    
+PEACEFUL~ Halcyon:(i)Calm; peaceful; tranquil; Rich; wealthy; prosperous; Happy; joyful; Halcyon weather. Halcyon days of youth. Halcyon times of peace 
+PEACEFUL~Placid:Pleasantly calm or peaceful; unruffled; tranquil; serenely quiet or undisturbed, calm or quiet Placid waters.
+PEACEFUL~ Serene:Calm, peaceful, or tranquil; unruffled; Clear; fair  A serene landscape; serene old age; serene weather.
+		                             
+		       
+-----------------------------------------------------------------
+
+DISOBEDIENT/STUBBORN~Contumacious:Stubbornly perverse or rebellious; willfully and obstinately disobedient.
+DISOBEDIENT/STUBBORN~Fractious:(i)Refractory or unruly;A fractious animal that would not submit to the harness.(ii)Readily angered; peevish; irritable; quarrelsome;An incorrigibly fractious young man.       
+DISOBEDIENT/STUBBORN~Intractable:(i) Not easily controlled or directed; not docile or manageable;stubborn; obstinate;  An intractable disposition. (ii)(Of things) hard to shape or work with;An intractable metal.                            
+DISOBEDIENT/STUBBORN~Obstinate:Firmly or stubbornly adhering to one's purpose, opinion, etc.; not yielding to argument, persuasion, or entreaty. Obstinate advocacy of high tariffs. Obstinate advocacy of high tariffs. 
+DISOBEDIENT/STUBBORN~Recalcitrant:Resisting authority or control; not obedient or compliant; refractory. Hard to deal with, manage, or operate Refractory;Hard or impossible to manage; stubbornly disobedient;A refractory child. 
+DISOBEDIENT/STUBBORN~Stubborn:(i)Unreasonably obstinate; obstinately unmoving;A stubborn child.(ii)Fixed or set in purpose or opinion; resolute; A stubborn opponent of foreign aid.                        
+DISOBEDIENT/STUBBORN~Headstrong:(i) Determined to have one's own way; willful; stubborn; obstinate; A headstrong young man.(ii)Proceeding from or exhibiting willfulness a headstrong course
+DISOBEDIENT/STUBBORN~Obdurate:Unmoved by persuasion, pity, or tender feelings; stubborn; unyielding.Stubbornly resistant to moral influence; persistently impenitent (i)An obdurate sinner
+DISOBEDIENT/STUBBORN~Rebellious:Defying or resisting some established authority, government, or tradition; insubordinate; inclined to rebel. Pertaining to or characteristic of rebels or rebellion
+OBIDIENT/UNDERSTANDING~Acquiesce:To assent tacitly; submit or comply silently or without protest; agree; consent.To acquiesce halfheartedly in a business plan.
+OBIDIENT/UNDERSTANDING~Compliant:(i)Complying; obeying, obliging, or yielding, esp. in a submissive way a man with a compliant nature. (ii) Manufactured or produced in accordance with a specified body of rules Energy Star-compliant computers
+OBIDIENT/UNDERSTANDING~Docile : Easily managed or handled; tractable; A docile horse. 
+OBIDIENT/UNDERSTANDING~Pliant:bending readily; flexible; supple; adaptable She manipulated the pliant clay.   
+OBIDIENT/UNDERSTANDING~Tractable:Easily managed or controlled; docile; yielding; A tractable child; a tractable disposition. 
+   ----------------------------------                   
+ OVER WEIGHT~Adipose:Fatty; consisting of, resembling, or relating to fat Animal fat stored in the fatty tissue of the body.
+ OVER WEIGHT~Corpulent:Large or bulky of body; portly; stout; fat Excessively fat; "a weighty man" 
+ OVER WEIGHT~Paunch:A large, round stomach He developed quite a paunch.
+ OVER WEIGHT~Plump:Well filled out or rounded in form; somewhat fleshy or fat She plumps out the truth at the oddest times
+ OVER WEIGHT~Porcine:Relating to or suggesting swine; repellently fat; a bald porcine old man.
+ OVER WEIGHT~Pudgy:Short and fat or thick an infant's pudgy fingers
+ OVER WEIGHT~Podgy :Short and plump
+ OVER WEIGHT~Rotund:Round in shape; rounded ripe, rotund fruit, rotund speeches.	                 	                 
+ OVER WEIGHT~Stout:(i) Bulky in figure; heavily built; corpulent; thickset; fat; She is getting too stout for her dresses. (ii)Bold, brave, or dauntless;A stout heart; stout fellows. (iii)Firm; stubborn; resolute; Stout resistance. 
+THIN~Gaunt:Extremely thin and bony; haggard and drawn, as from great hunger, a gaunt, windswept landscape.
+THIN~Lank:(of plants) unduly long and slender; Lank grass; lank, leafless trees.      
+THIN~Skinny:(i) Very lean or thin; emaciated; Askinny little kitten.(ii)unusually low or reduced; meager; minimal skinny profits.        
+THIN~Emaciated: To make or become extremely thin, especially as a result of starvation. emaciated bony hands
+THIN~Cadaverous:Emaciated; gaunt; A cadaverous mongrel picking through the garbage.   
+THIN~Lean:To incline,as in a particular direction; Slant The post leans to the left. The building leaned sharply before renovation.         
+                
+----------------------------------------------------------------------
+
+BRAVE/DETERMINED~Adventurous: Inclined or willing to engage in adventures; enjoying adventures.full of risk; requiring courage; hazardous an adventurous undertaking
+BRAVE/DETERMINED~Daring:To have the necessary courage or boldness for something; be bold  enough; You wouldn't dare!
+BRAVE/DETERMINED~Dauntless:Not to be daunted or intimidated; fearless; intrepid; bold.A dauntless hero
+BRAVE/DETERMINED~Chivalrous:Having the qualities of chivalry, as courage, courtesy, and loyalty. Considerate and courteous to women; gallant.gracious and honorable toward an enemy, esp. a defeated one, and toward the weak  or poor
+BRAVE/DETERMINED~Gallant:(i)Brave, spirited, noble-minded, or chivalrous a gallant knight; a gallant rescue attempt. (ii)Exceptionally polite and attentive to women; courtly. stately; grand; a gallant pageant
+BRAVE/DETERMINED~Heroic: Suitable to the character of a hero in size or concept; daring; noble; Aheroic ambition
+BRAVE/DETERMINED~Intrepid:Resolutely fearless; dauntless; An intrepid explorer.
+BRAVE/DETERMINED~Valiant: Boldly courageous; brave; stout-hearted avaliant soldier. 	
+BRAVE/DETERMINED~Stalwart:(i) strongly and stoutly built; sturdy and robust. strong and brave; A stalwart knight.(ii)Firm, steadfast, or uncompromising a stalwart supporter of the U.N.
+BRAVE/DETERMINED~Pluck: To pull off or out from the place of growth, as fruit, flowers, feathers,to pluck feathers from a chicken. To pluck someone's sleeve
+AFRAID~Frightened:(i) Thrown into a fright; afraid; scared; terrified A frightened child cowering in the corner.(ii)afraid; fearful (usually fol. by of); He has always been frightened of heights
+AFRAID~Meek:Showing patience and humility; gentle. Easily imposed on; submissive                 
+AFRAID~Timid: Lacking in self-assurance, courage, or bravery; easily alarmed; timorous;shy. Characterized by or indicating fear A timid approach to a problem.
+AFRAID~Coward:A person who lacks courage in facing danger, difficulty, opposition, pain, etc.; a timid or easily intimidated person.
+AFRAID~Intimidated:To overawe or cow, as through the force of personality or by superior display of wealth, talent, etc. To force into or deter from some action by inducing fear to intimidate a voter into staying away from the polls.
+AFRAID~Milquetoast:A very timid, unassertive, spineless person, esp. one who is easily dominated or intimidated.A milquetoast who's afraid to ask for a raise.
+AFRAID~Pusillanimous:acking courage or resolution; cowardly; faint-hearted; timid.Proceeding from or indicating a cowardly spirit
+AFRAID~Trembling:To be troubled with fear or apprehension. To be tremulous, as light or sound His voice trembled
+ ------------------------------------------------------------
+
+DESIRE~Aspire: To long, aim, or seek ambitiously; be eagerly desirous, esp. for something great or of high value to aspire after literary immortality; to aspire to be a doctor.
+DESIRE~	Covet: (i) To desire wrongfully, inordinately, or without due regard for the rights of others.	To covet another's property.(ii) To wish for, esp. eagerly He won the prize they all coveted
+DESIRE~Crave: An earnest desire for some type of achievement or distinction, as power,honor, fame, or wealth, and the willingness to strive for its attainment.
+DESIRE~	Ambition: Doting affection. A liking or weakness for something He has a fondness for sweets.
+DESIRE~	Proclivity: Natural or habitual inclination or tendency; propensity; predisposition; A proclivity to meticulousness.
+DESIRE~	Propensity: A natural inclination or tendency.a propensity to drink too much
+DESIRE~ Yearn:(i)To have an earnest or strong desire; long; To yearn for a quiet vacation. (ii)To feel tenderness; be moved or attracted; They yearned over their delicate child. 
+DISLIKE~Aversion:(i)A strong feeling of dislike, opposition, repugnance, or antipathy a strong aversion to snakes and spiders.(ii) A cause or object of dislike; person or thing that causes antipathy.His pet aversion is guests who are always late
+DISLIKE~Disgust:To offend the good taste, moral sense, etc., of; cause extreme dislike or revulsion in.Your vulgar remarks disgust me
+DISLIKE~Hate:The act of repulsing or the state of being repulsed.The feeling of being repelled, as by the thought or presence of something; distaste, repugnance, or aversion
+DISLIKE~Loathe:To feel abhorrence of; hate; dislike intensely.
+DISLIKE~Despise:To regard with contempt or scorn; despised all cowards and flatterers. To 	dislike intensely; loathe; despised the frigid weather in January. To regard as unworthy of one's interest or concern; despised any thought of 	their own safety. 
+
+
+
+
+--------------------------------------------
+
+
+
